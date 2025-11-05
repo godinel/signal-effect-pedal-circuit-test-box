@@ -3,11 +3,11 @@ Box that switches between clean signal from guitar and input/output probes that 
 
 # Built Box: 
 
-![Upgrade_Photo](Box_Image.jpg)
+![Box_Image](Box_Image.jpg)
 
 # Switch Wiring
 The box uses a 3PDT latching switch and 2 1/4 inch auido jacks wired as such:
 
-![Upgrade_Photo](Circuit_Diagram.jpg)
+![Circuit_Diagram](Circuit_Diagram.jpg)
 
 The led was omitted and the board in and out were connected to breadboard probes
