@@ -11,3 +11,4 @@ The box uses a 3PDT latching switch and 2 1/4 inch auido jacks wired as such:
 ![Circuit_Diagram](Circuit_Diagram.jpg)
 
 The led was omitted and the board in and out were connected to breadboard probes
+IMPORTANT: third cord required to tie grounds together to pedal board
